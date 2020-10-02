@@ -19,7 +19,7 @@ assignees: ''
 ###CTA Link
 **Specify if CTA link is static or dynamic and requires unique URL to match Shop or Partner ID**
 
-### 👥 Audience (FINAL mode report/query or csv, no google sheets or excel/numbers files please)
+### 👥 Audience (FINAL mode report/query or .csv, google sheets or excel but no numbers files please)
 **Note: We will only send merchant emails in the language that their admin is set to.**
 
 ###Tester's Email (up to 4 people)
